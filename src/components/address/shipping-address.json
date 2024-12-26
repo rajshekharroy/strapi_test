@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_address_shipping_addresses",
+  "info": {
+    "displayName": "shipping_address"
+  },
+  "options": {},
+  "attributes": {
+    "street": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "pin_code": {
+      "type": "string"
+    }
+  }
+}

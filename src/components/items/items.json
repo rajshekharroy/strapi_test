@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_items_items",
+  "info": {
+    "displayName": "Items",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "product_name": {
+      "type": "string"
+    },
+    "quantity": {
+      "type": "integer"
+    },
+    "price_per_unit": {
+      "type": "decimal"
+    },
+    "product_id": {
+      "type": "string"
+    }
+  }
+}
